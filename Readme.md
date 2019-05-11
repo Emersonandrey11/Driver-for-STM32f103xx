@@ -1,3 +1,4 @@
-#Driver para configuração de GPIO 
 
-no STM32F103C8T6.
+
+Este é um repositório para alocar bibliotecas
+para confguração de drivers para stm32f103xxx
